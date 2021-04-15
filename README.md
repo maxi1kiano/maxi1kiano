@@ -44,39 +44,18 @@ I'm Maximiliano Nuñez a Backend Developer. I spend most of my time coding or re
 
 [![GitHub Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#)
 
-<br />
 
 #### Business
 - [My Resume/CV](https://github.com/maxi1kiano/maxi1kiano/blob/master/resumes/resume%20v1.0.pdf)
 - mnuniez@gmail.com
 
-<br />
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maxi1kiano.maxi1kiano)
 
-<br />
 
 #### Github Stats
 
 ![Maximilano's github stats](https://github-readme-stats.vercel.app/api?username=maxi1kiano&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<!--
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-#### Coding Stats
-
-</details>
--->
