@@ -5,7 +5,7 @@ I spend most of my time coding or reading about new technologies.
 
 📫 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@maxi1kiano-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/massi1kiano)](https://twitter.com/massi1kiano) [![Linkedin Badge](https://img.shields.io/badge/-maxi1kiano-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxi1kiano/) [![Mail Badge](https://img.shields.io/badge/-mnuniez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mnuniez@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@maxi1kiano-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/massi1kiano)](https://twitter.com/massi1kiano) [![Linkedin Badge](https://img.shields.io/badge/-maxi1kiano-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxi1kiano/) [![Mail Badge](https://img.shields.io/badge/gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mnuniez@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -23,6 +23,7 @@ I spend most of my time coding or reading about new technologies.
 [![PLSQL Badge](https://img.shields.io/badge/pl/sql%20-%23F37440.svg?&style=for-the-badge&logo=oracle&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#) 
 [![PERL Badge](https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white)](#) 
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black)](#) 
 [![jQuery Badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#) 
 [![AngularJs Badge](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)](#)
