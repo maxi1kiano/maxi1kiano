@@ -35,8 +35,10 @@ I spend most of my time coding or reading about new technologies.
 #### Databases
 
 [![Oracle Badge](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)](#) 
-[![Mysql Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Postgres Badge](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Mysql Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Postgres Badge](https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![SQLite Badge](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
 
 #### Frameworks
 
@@ -49,9 +51,6 @@ I spend most of my time coding or reading about new technologies.
 [![GitHub Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br />
-
-#### Monitoring
-
 
 #### Business
 - [My Resume/CV](https://github.com/maxi1kiano/maxi1kiano/blob/master/resumes/resume%20v1.0.pdf)
