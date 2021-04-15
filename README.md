@@ -15,9 +15,7 @@ I spend most of my time coding or reading about new technologies.
 
 <br />
 
-#### Top Technologies
-
-<!-- TODO:  -->
+####  Technologies & Tools
 
 [![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#) 
 [![CSharp Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](#) 
@@ -27,6 +25,11 @@ I spend most of my time coding or reading about new technologies.
 [![jQuery Badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#) 
 [![AngularJs Badge](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)](#)
+
+[![Linux Badge](https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux&logoColor=FCC624)](#)
+[![Grafana Badge](https://img.shields.io/badge/grafana%20-%23323330.svg?&style=for-the-badge&logo=grafana&logoColor=F46800)](#)
+[![Prometheus Badge](https://img.shields.io/badge/prometheus%20-%23323330.svg?&style=for-the-badge&logo=prometheus&logoColor=F46800)](#)
+[![Apache2 Badge](https://img.shields.io/badge/apache%20-%23323330.svg?&style=for-the-badge&logo=apache&logoColor=D22128)](#)
 
 
 #### Databases
@@ -46,6 +49,9 @@ I spend most of my time coding or reading about new technologies.
 [![GitHub Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br />
+
+#### Monitoring
+
 
 #### Business
 - [My Resume/CV](https://github.com/maxi1kiano/maxi1kiano/blob/master/resumes/resume%20v1.0.pdf)
