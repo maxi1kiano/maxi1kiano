@@ -3,7 +3,7 @@
 I'm Maximiliano Nuñez a Senior Backend Developer.
 I spend most of my time coding or reading about new technologies.
 
-📫 Reach me out!
+📫 Connect with me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@maxi1kiano-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/massi1kiano)](https://twitter.com/massi1kiano) [![Linkedin Badge](https://img.shields.io/badge/-maxi1kiano-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxi1kiano/) [![Mail Badge](https://img.shields.io/badge/gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mnuniez@gmail.com)
 
@@ -15,7 +15,7 @@ I spend most of my time coding or reading about new technologies.
 
 <br />
 
-####  Technologies & Tools
+####  Languages & Tools
 
 [![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#) 
 [![CSharp Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](#) 
