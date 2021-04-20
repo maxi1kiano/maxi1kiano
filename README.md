@@ -69,6 +69,4 @@ I spend most of my time coding or reading about new technologies.
 
 #### 📈 Github Stats
 
-![Maximilano's github stats](https://github-readme-stats.vercel.app/api?username=maxi1kiano&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxi1kiano&layout=compact&theme=tokyonight)](https://github.com/maxi1kiano/github-readme-stats)
+![Maximilano's github stats](https://github-readme-stats.vercel.app/api?username=maxi1kiano&count_private=true&theme=tokyonight&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxi1kiano&layout=compact&theme=tokyonight)](https://github.com/maxi1kiano/github-readme-stats)
