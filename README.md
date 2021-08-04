@@ -56,7 +56,7 @@ I spend most of my time coding or reading about new technologies.
 <br />
 
 #### Business
-- [My Resume/CV](https://github.com/maxi1kiano/maxi1kiano/blob/master/resumes/resume%20v1.0.pdf)
+- [My Resume/CV](https://github.com/maxi1kiano/maxi1kiano/blob/master/resumes/resume-v1.0.pdf)
 - mnuniez@gmail.com
 
 <br />
