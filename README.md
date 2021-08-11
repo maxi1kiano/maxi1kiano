@@ -11,7 +11,6 @@ I spend most of my time coding or reading about new technologies.
 
 - ✔️ I’m currently working at AFIP (Federal Administration of Public Revenue).
 - ✔️ How to reach me: mnuniez@gmail.com.
-- ⚡ Fun fact: I like swimming and go to the gym very often.
 
 <br />
 
